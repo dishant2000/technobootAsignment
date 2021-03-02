@@ -1,0 +1,19 @@
+.nav-bottom-pannel{
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.nav-bottom-pannel .nav-brand-panel{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.nav-bottom-pannel .nav-brand-panel .apply-btn button{
+    padding: 5px 17px;
+    color: white;
+    background-color: rgb(255, 20, 98);
+    outline: none;
+    border: none;
+}
